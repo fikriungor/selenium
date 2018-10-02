@@ -1,5 +1,3 @@
 This is the first line - Hello!
 
 added line 1
-
-added line 2
